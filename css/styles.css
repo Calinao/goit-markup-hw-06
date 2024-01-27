@@ -668,6 +668,7 @@ link {
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: var(--sectionFiveLink);
+    display: block;
 }
 
 .modal-form-chechbox-span {
@@ -686,6 +687,10 @@ link {
     background-color: var(--hovercolor); /* Replace with your CSS variable */
     border: none;
     fill: #F4F4FD;
+}
+
+.modal-form-checkbox-link {
+    color: #4D5AE5;    
 }
 
 /* portfolio */
