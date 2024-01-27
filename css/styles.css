@@ -671,7 +671,7 @@ link {
     display: block;
 }
 
-.modal-form-chechbox-span {
+.modal-form-checkbox-span {
     width: 16px;
     height: 16px;
     border: 1px solid rgba(46, 47, 66, 0.4);
@@ -683,7 +683,11 @@ link {
     fill: transparent;
 }
 
-
+.modal-form-checkbox:checked + .modal-form-checkbox-label .modal-form-checkbox-span {
+    background-color: var(--hovercolor); /* Replace with your CSS variable */
+    border: none;
+    fill: #F4F4FD;
+}
 
 .modal-form-checkbox-link {
     color: #4D5AE5;    
