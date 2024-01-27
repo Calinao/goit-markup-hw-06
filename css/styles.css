@@ -598,6 +598,10 @@ link {
     margin-bottom: 8px;
 }
 
+#modal-form-textarea-container {
+    margin-bottom: 16px;
+}
+
 .modal-form-label {
     font-size: 12px;
     line-height: 1.17;
