@@ -602,6 +602,10 @@ link {
     margin-bottom: 16px;
 }
 
+.modal-form-textarea {
+    width: 100%;
+}
+
 .modal-form-label {
     font-size: 12px;
     line-height: 1.17;
