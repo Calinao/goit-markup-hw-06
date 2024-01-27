@@ -609,6 +609,7 @@ link {
 
 .modal-form-input-container {
     position: relative;
+    margin-bottom: 16px;
 }
 
 .modal-form-input {
