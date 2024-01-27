@@ -594,7 +594,18 @@ link {
     fill: #ffffff;
 }
 
+.modal-form-container {
+    margin-bottom: 8px;
+}
 
+.modal-form-label {
+    font-size: 12px;
+    line-height: 1.17;
+    letter-spacing: 0.04em;
+    color: var(--sectionFiveLink);
+    display: block;
+    margin-bottom: 4px;
+}
 /* portfolio */
 
 .section-portfolio {
